@@ -6,6 +6,7 @@
 	background:#011e29;
 	width:100%;
 	padding:1px;
+	text-align: center;
 }
 .content{
 	color:white;
@@ -16,7 +17,7 @@
 	justify-content:center;
 	flex-direction:row;
 }
-.box1{
+.latest-news-section{
 	background:white;
 	margin:2px;
 	text-align: center;
@@ -30,7 +31,7 @@
 	width:30%;
 	height:40%;
 }
-.box{
+.pictorial-news-section{
 	background:white;
 	margin:2px;
 	text-align: center;
