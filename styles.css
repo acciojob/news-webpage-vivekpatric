@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+.b{
+	background:#f5f5f5;
+}
+.head{
+	background:#011e29;
+	width:100%;
+	
+}
+.content{
+	color:white;
+	text-align: center;
+}
+.container{
+	display:flex;
+	justify-content:center;
+	flex-direction:row;
+}
+.box1{
+	background:white;
+	margin:2px;
+	text-align: center;
+	width:30%;
+	height:30%;
+}
+.box2{
+	background:white;
+	margin:2px;
+	text-align: center;
+	width:30%;
+	height:40%;
+}
+.box{
+	background:white;
+	margin:2px;
+	text-align: center;
+	width:30%;
+	height:70%
+	
+}
+#pic{
+	height:50%;
+	width:100%
+	
+}
